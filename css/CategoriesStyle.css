@@ -99,6 +99,7 @@ body{
     position: relative;
     top:0;
     left:0;
+    height: 100vh;
     /* background-color: rgba( 49 , 132 , 139 , 0.5); */
  
   }
@@ -165,6 +166,7 @@ body{
    width: 100%;
    margin: 1rem;
    object-fit: cover;
+  
 }
 
  /* ============ */
